@@ -2,9 +2,9 @@
 Projeto da disciplina Engenharia de Software II
 
 ## Membros do grupo: 
-Jean Marcos Saraiva da Silva 
-João Adriano Bastos Lao 
-Pasquale Milone Neto 
+Jean Marcos Saraiva da Silva
+João Adriano Bastos Lao
+Pasquale Milone Neto
 Victor Domingues Leite 
 
 ## Tema e resumo: 
