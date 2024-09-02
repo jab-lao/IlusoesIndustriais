@@ -2,7 +2,7 @@
 Projeto da disciplina Engenharia de Software II
 
 ## Membros do grupo: 
-Guilherme Nobrega
+Guilherme Nobrega  
 Jean Marcos Saraiva da Silva  
 João Adriano Bastos Lao  
 Pasquale Milone Neto  
