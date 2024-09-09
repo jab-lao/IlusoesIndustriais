@@ -19,7 +19,7 @@ Para os clientes interessados em vender, serão oferecidos planos mensais de e-c
 
 
 ## Personas: 
-Foi definido quatro personas para o projeto do E-commerce:  
+Foram definidas quatro personas para o projeto do E-commerce:  
 - Alexandre, estudante adolescente de 13 anos que ainda não tem renda própria.    
 - Mônica, dev júnior de 28 anos com interesses geeks; Caseira e gosta de jogar com amigos.    
 - Eduardo, pequeno empresário que deseja expandir seus negócios conquistando novos públicos.  
@@ -28,3 +28,6 @@ Foi definido quatro personas para o projeto do E-commerce:
 As definições de cada uma dessas personas, com suas metas, frustações e expectativas, podem ser vistas no documento abaixo:  
 https://docs.google.com/document/d/17UgoXiQgYflMtP1KNipy1BaGGc4yuV6Japl2h5oWglI/edit?usp=sharing  
 
+## Jornada do usuário
+Para mapear as interações dos vários perfis de usuário com o nosso produto e identificar pontos de desenvolvimento, documentamos o seguinte diário do usuário, registrado nas seguintes tabelas:
+https://docs.google.com/spreadsheets/d/1yWCj2Laasi-NAgEUjDnmWP9YLzffPMy8yPNK_HvjcNk/edit?gid=1947507297#gid=1947507297
