@@ -9,7 +9,7 @@ Pasquale Milone Neto
 Victor Domingues Leite 
 
 ## Tema e resumo: 
-E-commerce com temática de card games e jogos de tabuleiro, direcionada para o consumidor interessado, bem como pequenas e médias empresas que desejam vender seus produtos. A plataforma oferece, além de vendas e leilões, um canal de comunicação para comunidade, com o intuito de divulgar novos lançamentos, promover eventos e campeonatos locais, dentre outras coisas.
+E-commerce com temática de card games e jogos de tabuleiro, direcionada para o consumidor interessado, bem como pequenas e médias empresas que desejam vender seus produtos. A plataforma oferece, além de vendas e leilões, um canal de comunicação para comunidade, com o intuito de divulgar novos lançamentos, promover eventos e campeonatos locais, dentre outras coisas e também terá possibilidade de cadastrar suas coleções visando facilitar o controle de quantos produtos faltam em determinada coleção e mostrar os valores gastos e quanto falta para finalizar ela. 
 
 ## Modelo de negócio e tamanho de mercado: 
 Para os consumidores finais, bastará apenas um cadastro do perfil, para que seja possível realizar as compras.  
