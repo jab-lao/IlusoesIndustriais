@@ -1,22 +1,35 @@
-# Ilusões Industriais
+## Ilusões Industriais
 Projeto da disciplina Engenharia de Software II
 
 ## Membros do grupo: 
 Guilherme Nobrega  
 Jean Marcos Saraiva da Silva  
-João Adriano Bastos Lao  
 Pasquale Milone Neto  
 Victor Domingues Leite 
 
 ## Tema e resumo: 
-E-commerce com temática de card games e jogos de tabuleiro, direcionada para o consumidor interessado, bem como pequenas e médias empresas que desejam vender seus produtos. A plataforma oferece, além de vendas e leilões, um canal de comunicação para comunidade, com o intuito de divulgar novos lançamentos, promover eventos e campeonatos locais, dentre outras coisas e também terá possibilidade de cadastrar suas coleções visando facilitar o controle de quantos produtos faltam em determinada coleção e mostrar os valores gastos e quanto falta para finalizar ela. 
+Comunidade temática de card games e outros jogos de mesa, direcionada para o público nerd/geek, de 13 à 40 anos, que desejam estar engajados com a comunidade de seu hobbie predileto, bem como pequenas e médias empresas que desejam organizar eventos.  
+A plataforma oferece espaço para:
+
+- [x] Criar eventos de lançamentos ou de quaisquer outros interesses da comunidade, que permite sorteios
+- [x] Criação de artigos sobre os mais recentes acontecimentos no mundo dos card games
+- [x] Um fórum de discussões para os usuários
+- [x] Organização de campeonatos locais, que permite sorteios e prêmios em produtos ou dinheiro arrecadado da comunidade
+
+- [x] Leilões de cartas e outros produtos de jogos de mesa, com total segurança da plataforma
+- [x] Personalização de coleções
+- [x] Streaming de eventos e campeonatos pela plataforma 
+
+No Futuro, a plataforma pretende adicionar:
+- [ ] Ecommerce para venda de produtos de card games e jogos de tabuleiro
+- [ ] Ferramentas de análise e métricas de desempenho, como de CRM e relatório de vendas
 
 ## Modelo de negócio e tamanho de mercado: 
-Para os consumidores finais, bastará apenas um cadastro do perfil, para que seja possível realizar as compras.  
-Para os clientes interessados em vender, serão oferecidos planos mensais de e-commerce, com diferentes valores, cada um direcionado pelas necessidades do cliente.  
-- Clientes pequenos, que não são registrados como empresa, podem ter o plano gratuito - Nesse caso, para cada venda realizada em sua loja digital, será cobrado uma taxa de comissão.  
-- Os planos oferecidos entregarão ferramentas de análise e métricas de desempenho, bem como CRM e relatórios de vendas.
+A plataforma permite o cadastro gratuito para qualquer pessoa. para todas elas, bastará apenas um cadastro do perfil, para que seja possível escrever artigos, organizar eventos e campeonatos, particiar do forum, divulgar cartas em leilões, etc.  
+A organização dos eventos e campeonatos é gratuita. Porém, a plataforma não é responsável na organização em si, apenas na divulgação e seu anúncio. 
 
+Nossa plataforma conta com plano pago de inscrição. Neste plano, os usuários contam com mais proteções e ofertas no leilão, e também contam com a ajuda da plataforma na organização e divulgação de eventos e campeonatos.  
+Nesses casos, é necessário um valor mínimo de premiações e participantes confirmados, mediante a pagamento prévio e com presença confirmada.
 
 ## Personas: 
 Foram definidas quatro personas para o projeto do E-commerce:  
