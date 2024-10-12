@@ -26,6 +26,7 @@ No Futuro, a plataforma pretende adicionar:
 
 ## Modelo de negócio e tamanho de mercado: 
 A plataforma permite o cadastro gratuito para qualquer pessoa. para todas elas, bastará apenas um cadastro do perfil, para que seja possível escrever artigos, organizar eventos e campeonatos, particiar do forum, divulgar cartas em leilões, etc.  
+
 A organização dos eventos e campeonatos é gratuita. Porém, a plataforma não é responsável na organização em si, apenas na divulgação e seu anúncio. 
 
 Nossa plataforma conta com plano pago de inscrição. Neste plano, os usuários contam com mais proteções e ofertas no leilão, e também contam com a ajuda da plataforma na organização e divulgação de eventos e campeonatos.  
