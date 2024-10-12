@@ -15,7 +15,6 @@ A plataforma oferece espaço para:
 - [x] Criação de artigos sobre os mais recentes acontecimentos no mundo dos card games
 - [x] Um fórum de discussões para os usuários
 - [x] Organização de campeonatos locais, que permite sorteios e prêmios em produtos ou dinheiro arrecadado da comunidade
-
 - [x] Leilões de cartas e outros produtos de jogos de mesa, com total segurança da plataforma
 - [x] Personalização de coleções
 - [x] Streaming de eventos e campeonatos pela plataforma 
@@ -31,6 +30,28 @@ A organização dos eventos e campeonatos é gratuita. Porém, a plataforma não
 
 Nossa plataforma conta com plano pago de inscrição. Neste plano, os usuários contam com mais proteções e ofertas no leilão, e também contam com a ajuda da plataforma na organização e divulgação de eventos e campeonatos.  
 Nesses casos, é necessário um valor mínimo de premiações e participantes confirmados, mediante a pagamento prévio e com presença confirmada.
+
+
+## Eventos  
+Usuários poderão criar eventos que reunam a comunidade em algum local. A ideia é promover lançamentos de produtos, ou reuniões especiais. Devem contar com uma quantidade mínima de participantes, determinada pelo organizador. Opcional: premiações em sorteios.
+
+## Artigos e notícias  
+Usuários poderão escrever e publicar artigos e notícias sobre seus hobbies favoritos no mundo do card game. Publicar sobre decks mais usados, combos em jogos, resultados de torneios locais e mundiais.
+
+## Fórum de discussão  
+Usuários poderão participar do fórum de discussão para a comunidade, com tema livre das discussões. As pessoas podem falar sobre os artigos, pedir ajuda para criar decks, etc.
+
+## Campeonatos  
+Usuários podem organizar campeonatos locais, desde que eles atinjam um número mínimo de participantes. Os campeonatos devem contar com algum tipo de premiação. No plano pago, a partaforma ajuda na divulgação, organização e no streaming do evento.
+
+## Leilões  
+Usuários podem leiloar suas cartas pela plataforma. Nela é oferecido os valores do leilão e histórico de preços. A plataforma garante segurança para que não aconteça fraudes.
+
+## Personalização de coleções  
+Usuários poderão registrar suas cartas e criar coleções personalizadas, para ter como objetivo completar suas coleções. A plataforma ajuda os usuários indicando novas oportunidades para eles completarem suas coleções.
+
+## Streaming  
+Para os eventos e campeonatos realizados no plano pago, a plataforma irá divulgar esses eventos ao vivo, e as pessoas poderão acompanhar pelo site.
 
 ## Personas: 
 Foram definidas quatro personas para o projeto do E-commerce:  
