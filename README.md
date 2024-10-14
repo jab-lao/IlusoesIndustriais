@@ -67,3 +67,8 @@ https://docs.google.com/document/d/17UgoXiQgYflMtP1KNipy1BaGGc4yuV6Japl2h5oWglI/
 Para mapear as interações dos vários perfis de usuário com o nosso produto e identificar pontos de desenvolvimento, documentamos o seguinte diário do usuário, registrado nas seguintes tabelas:
  
 https://docs.google.com/spreadsheets/d/1yWCj2Laasi-NAgEUjDnmWP9YLzffPMy8yPNK_HvjcNk/edit?gid=1947507297#gid=1947507297
+
+## Video de apresentação
+
+Para resumir o projeto, foi criado um video de apresentação, com o link abaixo:  
+https://youtu.be/w1Y3Ab6BSK8
