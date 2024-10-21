@@ -8,19 +8,19 @@ Pasquale Milone Neto
 Victor Domingues Leite 
 
 ## Tema e resumo: 
-Comunidade temática de card games e outros jogos de mesa, direcionada para o público nerd/geek, de 13 à 40 anos, que desejam estar engajados com a comunidade de seu hobbie predileto, bem como pequenas e médias empresas que desejam organizar eventos.  
+Comunidade temática de card games, direcionada para o público nerd/geek, de 13 à 40 anos, que desejam estar engajados com a comunidade de seu hobbie predileto, bem como pequenas e médias empresas que desejam organizar eventos.  
 A plataforma oferece espaço para:
 
 - [x] Criar eventos de lançamentos ou de quaisquer outros interesses da comunidade, que permite sorteios
 - [x] Criação de artigos sobre os mais recentes acontecimentos no mundo dos card games
 - [x] Um fórum de discussões para os usuários
 - [x] Organização de campeonatos locais, que permite sorteios e prêmios em produtos ou dinheiro arrecadado da comunidade
-- [x] Leilões de cartas e outros produtos de jogos de mesa, com total segurança da plataforma
+- [x] Leilões de cartas e outros produtos relacionados, com total segurança da plataforma
 - [x] Personalização de coleções
 - [x] Streaming de eventos e campeonatos pela plataforma 
 
 No Futuro, a plataforma pretende adicionar:
-- [ ] Ecommerce para venda de produtos de card games e jogos de tabuleiro
+- [ ] Ecommerce para venda de produtos de card games
 - [ ] Ferramentas de análise e métricas de desempenho, como de CRM e relatório de vendas
 
 ## Modelo de negócio e tamanho de mercado: 
